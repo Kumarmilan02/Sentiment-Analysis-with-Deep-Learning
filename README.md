@@ -25,7 +25,7 @@ The goal of this project is to use a BERT-based transformer model to classify Tw
 
 ## Google Colab Notebook
 
-You can run the project on Google Colab by following this link: [Google Colab Notebook](https://colab.research.google.com/drive/1EJjzVpG3T9NimF-fk47W7tF9fRHAp4EX?usp=sharing).
+You can run the project on Google Colab by following this link: [Google Colab Notebook](https://colab.research.google.com/drive/1EJjzVpG3T9NimF-fk47W7tF9fRHAp4EX#scrollTo=E7QlW3F-lyYA).
 
 ## Table of Contents
 1. [Introduction](#introduction)
